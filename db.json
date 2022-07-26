@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "firstname": "nhlanhla",
+      "lastname": "dhlamini",
+      "birthdate": "2022-07-05",
+      "gender": "m",
+      "education": "diploma",
+      "company": "techcompany",
+      "jobExperience": 2,
+      "salary": 500,
+      "profile": "hot.jpeg",
+      "id": 1
+    },
+    {
+      "firstname": "peterson",
+      "lastname": "zuma",
+      "birthdate": "2022-07-12",
+      "gender": "m",
+      "education": "10th pass",
+      "company": "tech",
+      "jobExperience": 10,
+      "salary": 5000000,
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
